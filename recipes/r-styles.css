@@ -1,0 +1,65 @@
+body {
+    background-color: rgba(137, 174, 179, 0.432);
+}
+
+main {
+    margin-top: 20px;
+}
+
+header a {
+    color: black;
+    font-size: 20px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 300px;
+}
+
+.one img {
+    margin-left: 70px;
+    width: 700px;
+    height: auto;
+    float: left;
+    border-radius: 25px;
+}
+
+.one p {
+    font-size: 26px;
+    margin-left: 40px;
+    margin-top: 66px;
+    float: left;
+    text-align: justify;
+}
+
+.two .ing{
+    margin-top: 360px;
+    margin-left: -1240px;
+    float: left;
+}
+
+.two .ing h2 {
+    margin-left: -20px;
+    font-size: 26px;
+}
+
+.two .ing li {
+    font-size: 20px;
+}
+
+.two .prep {
+    margin-top: 40px;
+    margin-left: 500px;
+    float: left;
+}
+
+.two .prep h2 {
+    margin-left: -20px;
+    font-size: 26px;
+}
+
+.two .prep li {
+    font-size: 20px;
+}

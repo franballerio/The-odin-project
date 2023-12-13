@@ -1,0 +1,50 @@
+body {
+    background-color: bisque;
+}
+
+
+header a {
+    color: black;
+    font-size: 22px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    margin-top: 20px;
+}
+
+.one h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+
+}
+
+.one img {
+    margin-top: 35px;
+    margin-left: 200px;
+    margin-right: 20px;
+    float: left;
+    border-radius: 25px;
+}
+
+.two {
+    margin-top: 30px;
+    margin-left: 10px;
+    float: left;
+}
+
+.two p, .two ul {
+    margin-left: 70px;
+    font-size: 24px;
+}
+
+.two p {
+    font-size: 35px;
+}
+
+.two ul {
+    margin-left: 120px;
+}

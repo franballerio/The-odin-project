@@ -4,47 +4,40 @@ body {
 
 
 header a {
-    color: black;
-    font-size: 22px;
-    font-style: normal;
-    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(24, 113, 155);
+    font-weight: bold;
 }
 
-main {
-    margin-top: 20px;
-}
-
-.one h1 {
+h1 {
+    display: block;
     text-align: center;
-    font-size: 40px;
-    font-weight: 800;
-
-
+    font-size: 80px;
+    margin: 50px;
+    margin-bottom: 130px;
+    box-sizing: border-box;
 }
 
-.one img {
-    margin-top: 35px;
-    margin-left: 200px;
-    margin-right: 20px;
-    float: left;
-    border-radius: 25px;
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
-.two {
-    margin-top: 30px;
-    margin-left: 10px;
-    float: left;
+ul {
+    display: flex;
+    gap: 0px;
+    flex-wrap: wrap;
+    list-style: none;
+    /* border: 2px solid red; */
 }
 
-.two p, .two ul {
-    margin-left: 70px;
-    font-size: 24px;
+li a img {
+    border-radius: 100px;
+    width: 550px;
+    height: auto;
+    max-width: min-content;
 }
 
-.two p {
-    font-size: 35px;
-}
-
-.two ul {
-    margin-left: 120px;
+li {
+    flex: 1;
 }
